@@ -1,4 +1,0 @@
-ropz
-
-cat ropz.txt
-wq
