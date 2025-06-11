@@ -4,17 +4,6 @@
 
 This is a simple command-line file system simulator written in C++17. It supports basic file and directory operations such as `ls`, `cd`, `mkdir`, `rm`, `cat`, and more.
 
-## 目录 / Contents
-- [🔧 编译要求 / Build Requirements](#编译要求--build-requirements)
-- [🛠 编译示例 / Build Example](#编译示例--build-example)
-- [编译（Windows 如遇链接错误）](#编译windows-如遇链接错误)
-- [▶️ 使用方法 / Usage](#使用方法--usage)
-- [📝 输入示例 / Input Examples](#输入示例--input-examples)
-- [📁 功能说明 / Feature Summary](#功能说明--feature-summary)
-- [📄 许可证 / License](#许可证--license)
-
-
-
 ## 🔧 编译要求 / Build Requirements
 
 - C++17 支持的编译器（如 g++ 8+、MSVC 2017+）
